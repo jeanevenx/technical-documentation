@@ -1,5 +1,5 @@
 # Technical Documentation Page
-<img src="./snapshot-tech-doc.png">
+<img src="./assets/snapshot-tech-doc.png">
 <br/><br/>
 
 ## FreeCodeCamp's fourth responsive web design project based on the following user stories.
